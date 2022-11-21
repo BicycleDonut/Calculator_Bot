@@ -1,4 +1,4 @@
-import exceptions as e
+import exeption as e
 import rational as r
 import complex as c
 import logger as l
